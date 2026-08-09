@@ -20,8 +20,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M-Ishaq-327&show_icons=true&theme=radical" width="420"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=M-Ishaq-327&theme=radical" width="420"/>
+  <img src="https://streak-stats.demolab.com?user=M-Ishaq-327&theme=radical" width="420"/>
 </p>
+
 
 
 ---
