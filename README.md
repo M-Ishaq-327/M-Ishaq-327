@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Engineer from Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=500&lines=Turning+raw+data+into+insights+📊;Data+%2B+Software+Engineer+🚀;Python+%2B+SQL+%2B+Spark+🔥;Building+ETL+Pipelines+on+AWS+%26+Databricks;Medallion+Architecture+Enthusiast+❤️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=500&lines=Turning+raw+data+into+insights+📊;Data+%2B+Software+Engineer+🚀;Python+%2B+SQL+%2B+Spark+🔥;Building+ETL+Pipelines+on+AWS" alt="Typing SVG" />
 </p>
 
 ### About Me:
